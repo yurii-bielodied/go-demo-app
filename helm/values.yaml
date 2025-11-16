@@ -18,7 +18,7 @@ api:
   header: ""
   port: 8080
 ascii:
-  replicas: 3
+  replicas: 1
   canary: 0
   header: ""
   port: 8080
